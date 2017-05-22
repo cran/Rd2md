@@ -1,8 +1,8 @@
-4452fc730169475443ec7da2f97b5ef7 *DESCRIPTION
+9b5346d6b6dcb9835b1066721d1a0bef *DESCRIPTION
 fa511b9e11aa5313b352e2adbc93a0df *NAMESPACE
-fef4e315896c4e033b7cda8aefa1ec7d *NEWS
+9670f9343d711ce71607afadff5d479e *NEWS
 62615a47a6f34ebb4a1454c5ce0d47e1 *R/00_ReferenceManual.R
-9b4a60942256ddd32ff58d42912214a9 *R/Rd2markdown.R
+a22df3b8eec5ac5c973ff56348db3510 *R/Rd2markdown.R
 662a039a757e86545c2a00c5812ff684 *R/Rd2md-package.R
 21efedda583e797d174c0803d49f505a *R/parseRd.R
 eee5679dcf8f2ac8a63d031af122a66e *R/parseTag.R
@@ -11,7 +11,7 @@ e45d9375ca7743cb776f695d4f621ab8 *README.md
 2b40f4d2185adecf113cdf8e9fea85da *build/vignette.rds
 f0a298700db270e2a4d33e4a3c7fb5f4 *inst/doc/Introduction.R
 ca7c978b88955e7d6f03b991fd4c7b55 *inst/doc/Introduction.Rmd
-8912be180c1ff3620924579b105f5ae4 *inst/doc/Introduction.pdf
+714fa5b3fada3b1ef9d0b6e3574889b3 *inst/doc/Introduction.pdf
 fdadbd60cd99afdfab82659b7710fff9 *man/Rd2markdown-package.Rd
 5003e2fe4fbfc779d5049a4a5fa46ebd *man/Rd2markdown.Rd
 d65ffdce7ee9e6f05b2d4b23d26b3975 *man/Rd2md-package.Rd
