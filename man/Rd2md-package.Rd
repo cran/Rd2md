@@ -5,17 +5,16 @@
 \alias{Rd2md-package}
 \title{Reference Manual in Markdown}
 \description{
-Function to parse and convert Rd files to markdown format reference manual.
-}
-\author{
-Julian Busch <jb@quants.ch>
+Functions to parse and convert Rd files to markdown format reference manual.
 }
 \seealso{
 \code{knitr}
+}
+\author{
+Julian Busch <jb@quants.ch>
 }
 \keyword{Rd}
 \keyword{help}
 \keyword{manual}
 \keyword{markdown}
 \keyword{reference}
-
