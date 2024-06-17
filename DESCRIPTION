@@ -1,6 +1,6 @@
 Package: Rd2md
 Title: Markdown Reference Manuals
-Version: 1.0.0
+Version: 1.0.1
 Authors@R: person("Julian", "Busch", email = "jb@quants.ch", role = c("aut", "cre"))
 Description: Native R only allows PDF exports of reference manuals.
     The 'Rd2md' package converts the package documentation files into
@@ -16,8 +16,8 @@ RoxygenNote: 7.2.3
 URL: https://github.com/quantsch/rd2md
 BugReports: https://github.com/quantsch/rd2md/issues
 NeedsCompilation: no
-Packaged: 2024-03-13 11:25:06 UTC; julian
+Packaged: 2024-06-17 19:48:07 UTC; runner
 Author: Julian Busch [aut, cre]
 Maintainer: Julian Busch <jb@quants.ch>
 Repository: CRAN
-Date/Publication: 2024-03-13 11:40:05 UTC
+Date/Publication: 2024-06-17 20:00:02 UTC
